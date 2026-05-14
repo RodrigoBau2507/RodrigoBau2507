@@ -22,9 +22,8 @@
 
 ###
 <div align="center">
-  <a href="www.linkedin.com/in/rodrigo-bautista-rodriguez" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://img.shields.io/static/v1?message=Linkedin&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-bautista-rodriguez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=RodrigoBau2507&color=red&style=for-the-badge" height="30" alt="profile count" />
 </div>
